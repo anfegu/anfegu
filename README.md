@@ -1,7 +1,7 @@
 [![Banner Alt Text](https://media.licdn.com/dms/image/D4E16AQFiyq4rEhUosw/profile-displaybackgroundimage-shrink_350_1400/0/1698889731307?e=1710979200&v=beta&t=o-oAD_aniwCWPnZttJtcmpZBQhkotdVeoB9pC79RV0w)](https://linktr.ee/anfegu)
 <div align="justify">
   
-## 🚀🌍 Building the Future of Technology through Innovative Blockchain Solutions 🎯
+## 🌍 Building the Future of Technology through Innovative Blockchain Solutions 🎯
 Seasoned software analyst and developer with a decade of experience crafting high-performance IT systems. ⚙️ 
 
 ### 🛠️ Proven Expertise : 🔧
@@ -28,8 +28,8 @@ Passionate about leveraging my skills in a fully remote environment, contributin
 
 ### 🤝 Let's Connect: 🔄
 
-Eager to collaborate with talented teams and build the future of blockchain. Reach out, and let's discuss how I can contribute to your success!
+Eager to collaborate with talented teams and build the future of IT & blockchain. Reach out, and let's discuss how I can contribute to your success!
 
-Connect with me [Link Pofile](https://linktr.ee/anfegu) 📲
+Connect with me ➔ [☎️ 📧 📲](https://linktr.ee/anfegu) 
 
 </div>
