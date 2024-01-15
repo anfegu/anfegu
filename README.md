@@ -1,4 +1,4 @@
-[![Banner Alt Text](https://media.licdn.com/dms/image/D4E16AQFiyq4rEhUosw/profile-displaybackgroundimage-shrink_350_1400/0/1698889731307?e=1710979200&v=beta&t=o-oAD_aniwCWPnZttJtcmpZBQhkotdVeoB9pC79RV0w)](https://linktr.ee/anfegu)
+[![AnfeguBanner](https://github.com/anfegu/anfegu/assets/7240030/50a24cb8-6368-4838-9256-b0cc9ad5089e)](https://linktr.ee/anfegu)
 <div align="justify">
   
 ## 🌍Building the Future of Technology through Innovative Blockchain Solutions🎯
