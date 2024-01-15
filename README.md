@@ -1,16 +1,31 @@
-### Hi there 👋
+## Building the Future of Finance through Innovative Blockchain Solutions 🚀
 
-<!--
-**anfegu/anfegu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seasoned software analyst and developer with a decade of experience crafting high-performance IT systems.
 
-Here are some ideas to get you started:
+### Proven Expertise:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Rust:** Masterful architect, specializing in building performant and secure applications.
+- **API Design:** Crafting elegant and efficient APIs for seamless integration.
+- **Diverse Systems Integration:** Bridging the gap between disparate systems with protocols like REST, ODBC, MQ IBM Iseries, TCP/IP, and RPC.
+
+### Blockchain Savvy:
+
+- **Wallet Development:** Building secure and user-friendly wallets for diverse blockchain platforms.
+- **Middleware Solutions:** Creating robust middleware for efficient blockchain interactions.
+- **Second-Layer Protocols:** Optimizing scalability and performance with second-layer solutions.
+- **DApps Development:** Bringing innovative decentralized applications to life.
+- **DeFi Knowledge:** Navigating the complex world of decentralized finance with confidence.
+
+### Architect for Performance:
+
+Deep understanding of memory management, guiding strategic architectural decisions for optimal software performance.
+
+### Remote-Ready, USD-Focused:
+
+Passionate about leveraging my skills in a fully remote environment, contributing to cutting-edge blockchain projects or general IT companies paying in USD.
+
+### Let's Connect:
+
+Eager to collaborate with talented teams and build the future of blockchain. Reach out, and let's discuss how I can contribute to your success! 🤝
+
+Connect with me [Link Pofile](https://linktr.ee/anfegu) 📲
