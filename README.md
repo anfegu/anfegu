@@ -6,7 +6,7 @@ Seasoned software analyst and developer with a decade of experience crafting hig
 
 ### 🛠️ Proven Expertise : 🔧
 
-- **Rust:** Masterful architect, specializing in building performant and secure applications.
+- **Rust & Javascript:** Adept at designing and developing high-performance, secure applications. Expertise spans both JavaScript and Rust, delivering innovative solutions that prioritize efficiency and robust security measures.
 - **API Design:** Crafting elegant and efficient APIs for seamless integration.
 - **Diverse Systems Integration:** Bridging the gap between disparate systems with protocols like REST, ODBC, MQ IBM Iseries, TCP/IP, and RPC.
 
@@ -24,7 +24,7 @@ Deep understanding of memory management, guiding strategic architectural decisio
 
 ### 🌐 Remote-Ready, USD-Focused: 💲
 
-Passionate about leveraging my skills in a fully remote environment, contributing to cutting-edge blockchain projects or general IT companies paying in USD.
+Efficient in leveraging my skills in a fully remote environment, contributing to cutting-edge IT companies with Fullstack & blockchain projects paid in USD.
 
 ### 🤝 Let's Connect: 🔄
 
