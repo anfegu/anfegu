@@ -1,6 +1,7 @@
-## Building the Future of Finance through Innovative Blockchain Solutions 🚀
+<div width: 100%; height: auto;"> <img src="https://media.licdn.com/dms/image/D4E16AQFiyq4rEhUosw/profile-displaybackgroundimage-shrink_350_1400/0/1698889731307?e=1710979200&v=beta&t=o-oAD_aniwCWPnZttJtcmpZBQhkotdVeoB9pC79RV0w" alt="Banner Image" style="width: 100%; height: auto; display: block; position: relative; z-index: 1;"> </div>
 
-Seasoned software analyst and developer with a decade of experience crafting high-performance IT systems.
+## Building the Future of Finance through Innovative Blockchain Solutions 🚀
+<img src="https://media.licdn.com/dms/image/D4E03AQERCSTmAVHlng/profile-displayphoto-shrink_200_200/0/1665332113345?e=1710979200&v=beta&t=UXiN9nWga42FQ_QNAhw6XXnj6OeNI5Xfsg9NDAKbp5k" alt="Profile Picture" style="position: absolute; top: 10px; left: 10px; border: 5px solid #fff; border-radius: 50%; width: 100px; height: 100px;"> Seasoned software analyst and developer with a decade of experience crafting high-performance IT systems.
 
 ### Proven Expertise:
 
