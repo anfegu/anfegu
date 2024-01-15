@@ -1,7 +1,7 @@
 [![Banner Alt Text](https://media.licdn.com/dms/image/D4E16AQFiyq4rEhUosw/profile-displaybackgroundimage-shrink_350_1400/0/1698889731307?e=1710979200&v=beta&t=o-oAD_aniwCWPnZttJtcmpZBQhkotdVeoB9pC79RV0w)](https://linktr.ee/anfegu)
 <div align="justify">
   
-## 🌍 Building the Future of Technology through Innovative Blockchain Solutions 🎯
+## 🌍Building the Future of Technology through Innovative Blockchain Solutions🎯
 Seasoned software analyst and developer with a decade of experience crafting high-performance IT systems. ⚙️ 
 
 ### 🛠️ Proven Expertise : 🔧
