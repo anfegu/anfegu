@@ -3,7 +3,7 @@
 <div align="center"> 
  
 ## <center> Building the Future of Technology through Innovative Blockchain Solutions
-⚙️ 🌍 Seasoned software analyst and developer with a decade of experience crafting high-performance IT systems. 🎯 ⚙️
+🌍 Seasoned software analyst and developer with a decade of experience crafting high-performance IT systems. 🎯
 
 </div>
 
@@ -17,11 +17,11 @@
   
 ### 🔗 Blockchain Savvy: ⛓️ 
 
-- **Wallet Development:** Building secure and user-friendly wallets for diverse blockchain platforms.
-- **Middleware Solutions:** Creating robust middleware for efficient blockchain interactions.
-- **Second-Layer Protocols:** Optimizing scalability and performance with second-layer solutions.
-- **DApps Development:** Bringing innovative decentralized applications to life.
-- **DeFi Knowledge:** Navigating the complex world of decentralized finance with confidence.
+⚙️ **Wallet Development:** Building secure and user-friendly wallets for diverse blockchain platforms. <br>
+⚙️ **Middleware Solutions:** Creating robust middleware for efficient blockchain interactions. <br>
+⚙️ **Second-Layer Protocols:** Optimizing scalability and performance with second-layer solutions. <br>
+⚙️ **DApps Development:** Bringing innovative decentralized applications to life. <br>
+⚙️ **DeFi Knowledge:** Navigating the complex world of decentralized finance with confidence.
 
 ##
 ### 🏗️ Develop for Performance: ⚡
