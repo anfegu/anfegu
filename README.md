@@ -29,7 +29,7 @@
 Deep understanding of memory management, guiding strategic architectural decisions for optimal software performance.
 
 ##
-### 🌐 Remote-Ready, USD-Focused: 💲
+### 🌐 Remote-Ready: 💲
 
 Efficient in leveraging my skills in a fully remote environment, contributing to cutting-edge IT companies with Fullstack & blockchain projects paid in USD.
 
