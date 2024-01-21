@@ -1,7 +1,7 @@
 [![AnfeguBanner](https://github.com/anfegu/anfegu/assets/7240030/50a24cb8-6368-4838-9256-b0cc9ad5089e)](https://linktr.ee/anfegu)
  
-## 🌍 Building the Future of Technology through Innovative Blockchain Solutions 🎯
-⚙️ Seasoned software analyst and developer with a decade of experience crafting high-performance IT systems. ⚙️
+## Building the Future of Technology through Innovative Blockchain Solutions
+⚙️ 🌍 Seasoned software analyst and developer with a decade of experience crafting high-performance IT systems. 🎯 ⚙️
 
 > [!IMPORTANT]
 >  ### 🛠️ Proven Expertise : 🔧 
